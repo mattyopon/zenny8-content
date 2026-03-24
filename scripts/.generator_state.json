@@ -1,12 +1,13 @@
 {
   "published_urls": [
     "https://zenn.dev/m0370/articles/205c9340a418c3",
-    "https://gigazine.net/news/20260323-opencode/"
+    "https://gigazine.net/news/20260323-opencode/",
+    "https://www.publickey1.jp/blog/26/claude_codegithub_copilotaiazure_skills_plugin.html"
   ],
-  "last_run": "2026-03-23T22:37:43.150563+00:00",
+  "last_run": "2026-03-24T22:37:30.530255+00:00",
   "last_article": {
-    "title": "無料でオープンソースのAIコーディングエージェント「OpenCode」、Windows・Linux・macOSで利用可能でClaude・GPT・Geminiなどにも対応",
-    "slug": "2026032322-aiopencodewindowslinuxmacosclaudegptgem",
+    "title": "マイクロソフト、Claude CodeやGitHub Copilotに「このアプリをデプロイせよ」と指示すればAIが最適なインフラ構成やサービスでデプロイしてくれる「Azure Skills Plugin」公開",
+    "slug": "2026032422-claude-codegithub-copilotaiazure-skills",
     "topic": "ai"
   }
 }
