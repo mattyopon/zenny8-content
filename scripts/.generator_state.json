@@ -1,14 +1,15 @@
 {
   "published_urls": [
-    "https://gigazine.net/news/20260323-opencode/",
     "https://www.publickey1.jp/blog/26/claude_codegithub_copilotaiazure_skills_plugin.html",
+    "https://gigazine.net/news/20260323-opencode/",
     "https://zenn.dev/m0370/articles/205c9340a418c3",
+    "https://qiita.com/ssc-dninomiya/items/dbb960ac33a17cd1f4c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "https://qiita.com/nogataka/items/ad15bfa383c98ae5cc36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
   ],
-  "last_run": "2026-03-25T22:41:33.792909+00:00",
+  "last_run": "2026-03-26T22:35:45.807174+00:00",
   "last_article": {
-    "title": "AGENTS.md完全入門 ── 60,000リポジトリが採用した事実上の共通フォーマット",
-    "slug": "2026032522-agentsmd-60000",
+    "title": "自作MCP×AI Agentの回答精度をClaude Codeで評価させてみた[LLM-as-a-Judge]",
+    "slug": "2026032622-mcpai-agentclaude-codellm-as-a-judge",
     "topic": "ai"
   }
 }
