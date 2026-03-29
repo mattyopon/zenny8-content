@@ -1,17 +1,18 @@
 {
   "published_urls": [
-    "https://www.publickey1.jp/blog/26/claude_codegithub_copilotaiazure_skills_plugin.html",
     "https://qiita.com/ssc-dninomiya/items/dbb960ac33a17cd1f4c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "https://gigazine.net/news/20260323-opencode/",
     "https://zenn.dev/yumemi_inc/articles/a61de3467bc182",
     "https://zenn.dev/m0370/articles/205c9340a418c3",
+    "https://www.publickey1.jp/blog/26/claude_codegithub_copilotaiazure_skills_plugin.html",
+    "https://zenn.dev/shio_shoppaize/articles/shogun-harness-engineering",
     "https://qiita.com/nogataka/items/ad15bfa383c98ae5cc36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "https://zenn.dev/suit9/articles/a1bf8f7c46ef3b"
   ],
-  "last_run": "2026-03-28T22:34:11.436098+00:00",
+  "last_run": "2026-03-29T22:36:17.113735+00:00",
   "last_article": {
-    "title": "Claude Opus 4.6と同等のAIをローカルで動かすにはいくらかかるか？ローカルLLMを構築してわかったこと",
-    "slug": "2026032822-claude-opus-46aillm",
+    "title": "ハーネスエンジニアリング、それGit Workflowをbashで書き直してるだけでは",
+    "slug": "2026032922-git-workflowbash",
     "topic": "ai"
   }
 }
